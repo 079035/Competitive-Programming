@@ -76,7 +76,7 @@ int main() {
     primes.push_back(5);
     primes.push_back(7);
 
-    rep(i,1,10){
+    rep(i,1,9){
         generate(i);
     }
 
